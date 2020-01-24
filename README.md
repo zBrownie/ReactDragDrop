@@ -9,4 +9,4 @@
 ### DEMO
 
 
-    <a href="https://giphy.com/gifs/fWvdAMElQIpShEYqDa"><img src="https://giphy.com/gifs/fWvdAMElQIpShEYqDa" title="DEMO"/></a>
+    ![https://github.com/zBrownie/ReactDragDrop/blob/master/demo/dragdropgif.gif]
