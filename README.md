@@ -9,4 +9,4 @@
 ### DEMO
 
 
-    ![https://github.com/zBrownie/ReactDragDrop/blob/master/demo/dragdropgif.gif]
+    ![dragdropgif](https://github.com/zBrownie/ReactDragDrop/blob/master/demo/dragdropgif.gif)
