@@ -9,4 +9,4 @@
 ### DEMO
 
 
-    ![https://giphy.com/gifs/fWvdAMElQIpShEYqDa/html5]
+    ![](https://giphy.com/gifs/fWvdAMElQIpShEYqDa/html5)
